@@ -1,0 +1,5 @@
+# Added: 
+config/make.def
+
+# Installed:
+pkg install lang/gcc10
